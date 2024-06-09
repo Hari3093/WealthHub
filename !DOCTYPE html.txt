@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Investment Firm</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Investment Firm</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="home">
+      <h2>Welcome to Our Investment Firm</h2>
+      <p>We provide top-notch investment services.</p>
+    </section>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>Learn more about our firm and our mission.</p>
+    </section>
+    <section id="services">
+      <h2>Our Services</h2>
+      <p>We offer a range of investment services to meet your needs.</p>
+    </section>
